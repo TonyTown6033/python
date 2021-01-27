@@ -1,5 +1,5 @@
 import jieba
-txt = open("D:\Code\python\clsex0115\sanguoyanyi.txt", "r",encoding='utf-8').read()
+txt = open("/mnt/d/Code/python/clsex0115/sanguoyanyi.txt", "r",encoding='utf-8').read()
 excludes={"将军","却说","丞相","二人","不可","荆州","不能","如此"\
           ,"商议","如何","主公","军士","左右","军马","引兵","次日","大喜","天下"}
 words = jieba.lcut(txt)

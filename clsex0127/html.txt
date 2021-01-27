@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>QQ皮肤非主流女生,高清图片-壁纸族</title>
+    <meta name="keywords" content="皮肤,主流,女生">
+    <meta name="description" content="非主流的女生给人的第一印象就是个性张扬，另类打扮，时尚潮流。那么，对于这一部分女生来说，是不是合适的qq皮肤更显自己的独特之处呢！">
+    <meta name="mobile-agent" content="format=html5;url=//m.bizhizu.cn/photoview/13055/2.html"/>
+    <script src="/static/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/cn.bizhizu/js/public.js"></script>
+    <link rel="stylesheet" type="text/css" href="/static/cn.bizhizu/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="/static/cn.bizhizu/css/gallery.css" media="screen">
+    <script type="text/javascript" src="/static/cn.bizhizu/layer/layer.js"></script>
+
+
+</head>
+<body>
+<!--headTop-->
+<div class="index-headc">
+    <!--面包屑-->
+    <div class="show-pages-gps">当前位置：
+        <a href="/">首页</a> <em>&gt;</em> <a
+                href="/tupian/">图片大全</a> <em>&gt;</em> <a
+                href="https://www.bizhizu.cn/pic/2567.html">QQ皮肤非主流女生</a>
+
+        &gt;
+        &nbsp;&nbsp;||&nbsp;&nbsp;更新时间:2014-08-07&nbsp;&nbsp;
+        颜色分类：
+                    <a href="/photos/color-%E7%82%AB%E5%BD%A9/">炫彩</a>
+        
+        &nbsp;
+        关键词：
+        <a href='//www.bizhizu.cn/nvsheng/' target='_blank' >女生图片</a>                                     <a href="/photos/tag-%E7%9A%AE%E8%82%A4/"
+                   target="_blank">皮肤</a>
+                                                <a href="/photos/tag-%E4%B8%BB%E6%B5%81/"
+                   target="_blank">主流</a>
+                                                <a href="/photos/tag-%E5%A5%B3%E7%94%9F/"
+                   target="_blank">女生</a>
+                        </div>
+    <!--/面包屑-->
+</div>
+<!--功能菜单按钮-->
+<script type="text/javascript" src="/static/cn.bizhizu/js/bzscript.js"></script>
+<script>
+    $(function () {
+        $("#select_fblc").xuForm({wid: "auto"});
+    })
+</script>
+<!--/功能菜单按钮-->
+<!--广告位宽度960高度不限-->
+<div class="g-w960" style=" min-width:1270px;">
+    <div style="width:1270px; z-index:2; height:250px">
+        <div style="width:960px; height:250px; float:left">
+            <div style=" width:960px; z-index:2">
+                <!-- PC页广告 : 下载页顶层第一列 -->
+                <script>load_bizhizu_pc_dd('down_1lie')</script>
+            </div>
+            <div style=" width:960px; z-index:2">
+                <!-- PC页广告 : 下载页顶层第二列 -->
+                <script>load_bizhizu_pc_dd('down_2lie')</script>
+            </div>
+            <div style="width:960px; height:70px;">
+                <!-- PC页广告 : 下载页顶层第三列 -->
+                <script>load_bizhizu_pc_dd('down_3lie')</script>
+            </div>
+        </div>
+        <div style=" float:left; width:300px; height:250px;">
+            <!-- PC页广告 : 下载页顶层右300_250 -->
+            <script>load_bizhizu_pc_dd('down_top_right300x250')</script>
+        </div>
+    </div>
+</div><!--/广告位宽度960高度不限-->
+<!-- PC页广告 : 内容页 下载页图+ -->
+<script>load_bizhizu_pc_dd('show_down_tujia')</script>
+<div class="show-pages-menuc">
+    <!--<div class="paddc"></div>-->
+    <a class="menu s1" href="javascript:void();">查看原图</a>
+    <a class="menu s2" href="javascript:void();">适应屏幕</a>
+    <a class="menu s3" href="javascript:void();">适应宽度</a>
+    <a class="menu s4" id="download_yt" href="https://uploadfile.bizhizu.cn/2014/0807/20140807110113429.jpg.source.jpg" target="_blank">下载原图</a>
+</div>
+
+<!--主体内容-->
+<div class="mian_d" id="picbbox">
+    <div class="show-pages-imgshow"><img src="https://uploadfile.bizhizu.cn/2014/0807/20140807110113429.jpg.source.jpg"
+                                         alt="QQ皮肤非主流女生"
+                />
+        <div class="pictio"></div>
+    </div>
+</div>
+
+<script defer="true">
+    $("#download_yt").click(function(){
+        imghref=$("#download_yt").attr("href");
+
+        if(imghref.indexOf(".gif.")>0)//GIF动图
+        {
+            imghref=imghref.replace(".source.jpg","")
+        }
+
+        layer.open({
+            type: 2,
+            title: '请在弹出层的图片上点击右键，选择“另存为”',
+            shadeClose: true,
+            shade: 0.6,
+            maxmin: false, //开启最大化最小化按钮
+            area: ['60%', '80%'],
+            scrollbar:false,
+            content: ["//www.bizhizu.cn/static/cn.bizhizu/html/down.html?url="+imghref,'no']
+        });
+        return false;
+    });
+    $(document).ready(function () {
+        $(".show-pages-imgshow").css("width", $(window).width());
+        $(window).resize(function () {
+            $(".show-pages-imgshow").css("width", $(window).width());
+            $(".pictio").width($(".show-pages-imgshow").width()).height($(".show-pages-imgshow").height());
+        });
+    });
+    var p_w;
+    var p_h;
+    $(".show-pages-imgshow>img").load(function () {
+        p_w = $(this).width();
+        p_h = $(this).height();
+        $(".pictio").width($("#picbbox").width()).height($("#picbbox").height()).css({
+            top: $(this).position().top,
+            left: 0
+        }).fadeTo(100, 0.05);
+    })
+    dragpic = -1;
+    dragpicy = -1;
+    $(".pictio").bind({
+        mousedown: function (e) {
+//e=event?event:window.event;
+            dragpic = e.pageX || (e.clientX);
+            dragpicy = e.pageY || (e.clientY);
+            if (e.stopPropagation) {
+// this code is for Mozilla and Opera
+                e.stopPropagation();
+                e.preventDefault();
+            }
+            ;
+        },
+        mouseup: function () {
+            dragpic = -1;
+        },
+        mousemove: function (e) {
+            if (dragpic >= 0) {
+//e=event?event:window.event;
+                dqsb = e.pageX || (e.clientX );
+                dqsby = e.pageY || (e.clientY );
+                $(".show-pages-imgshow").scrollLeft($(".show-pages-imgshow").scrollLeft() + (dragpic - dqsb))
+                $(document).scrollTop($(document).scrollTop() + (dragpicy - dqsby))
+                dragpic = dqsb
+                dragpicy = dqsby
+            }
+        },
+        mouseout: function () {
+            dragpic = -1;
+        }
+    });
+    $("a.s1").click(function () {
+        $(".pictio").width($("#picbbox").width()).height($("#picbbox").height());
+        $(".show-pages-imgshow>img").css({"width": "auto", "height": "auto"});
+        $(document).scrollTop($(".show-pages-imgshow").position().top);
+        return false;
+    })
+    $("a.s2").click(function () {
+        w = p_w;
+        h = p_h;
+        boxw = $(window).width()
+        boxh = $(window).height()
+        $(".pictio").width(boxw).height(boxh - $(".downbom").height());
+        if (w < boxw && h < boxh) {
+        } else {
+            if ((w / h) > (boxw / boxh)) {
+                $(".show-pages-imgshow>img").css({"width": boxw, height: "auto"});
+            } else {
+//$(".show-pages-imgshow>img").css("width",boxw);
+                $(".show-pages-imgshow>img").css({"width": "auto", "height": boxh - $(".downbom").height()});
+            }
+        }
+        $(document).scrollTop($(".show-pages-imgshow").position().top);
+        return false;
+    })
+    $("a.s3").click(function () {
+        w = p_w;
+        h = p_h;
+        boxw = $(window).width()
+        boxh = $(window).height()
+        $(".pictio").width($("#picbbox").width()).height($("#picbbox").height());
+        if (w < boxw) {
+        } else {
+            $(".show-pages-imgshow>img").css({"width": boxw, height: "auto"});
+        }
+        $(document).scrollTop($(".show-pages-imgshow").position().top);
+        return false;
+    })
+
+</script>
+
+<!--/主体内容-->
+
+
+
+<!--组图列表-->
+<div class="showimgc">
+    <div class="photo-set">
+        <div class="photo-set-list">
+            <div class="photo-list-inner">
+                <div class="photo-list-box">
+                    <ul class="clearfix">
+                                                <li class="show1"><a href="/photoview/2567/2.html"><img
+                                        src="https://uploadfile.bizhizu.cn/2014/0807/20140807110113836.jpg.220.146.jpg"
+                                        width="144" alt="" /></a><i>上一张</i><span class="arrow"></span></li>
+                        <!--中间图片为焦点 加入样式cur-->
+                        <li class="show1 cur "><a href=""><img
+                                        src="https://uploadfile.bizhizu.cn/2014/0807/20140807110113429.jpg.220.146.jpg"
+                                        width="144" alt="" /></a><i>当前(4/10)</i><span class="arrow"></span></li>
+                                                <li class="show1"><a href="/photoview/2567/4.html"><img
+                                        src="https://uploadfile.bizhizu.cn/2014/0807/20140807110114425.jpg.220.146.jpg"
+                                        width="144" alt="" /></a><i>下一张</i><span class="arrow"></span></li>
+                    </ul>
+                </div>
+                <span class="photo-set-scrlprev"><a id="prevGroup" class="forbid" href="/photoview/2567/2.html"></a></span>
+                <span class="photo-set-scrlnext"><a id="nextGroup" class="forbida" href="/photoview/2567/4.html"></a></span>
+                <!--向右不能点击的时候，给a添加forbid的类-->
+                <script>load_bizhizu_pc_dd('down_bottom_liangbian')</script>
+            </div>
+        </div>
+        <div class="photo-set-prev">
+                        <span><a href="/photoview/2568/0.html"><img
+                            src="https://uploadfile.bizhizu.cn/2014/0807/20140807105058877.jpg.220.146.jpg" width="120"
+                            alt="" /></a></span><a class="txt">上一组图</a>
+                    </div>
+
+        <div class="photo-set-next">
+                        <span><a href="/photoview/2566/0.html"><img
+                            src="https://uploadfile.bizhizu.cn/2014/0807/20140807105137524.jpg.220.146.jpg" width="120"
+                            alt="" /></a></span><a class="txt">下一组图</a>
+                    </div>
+    </div>
+</div>
+<!--footer-->
+
+<div class="index-footc">
+    <div class="about">
+        <p>
+            <a href="https://www.enterdesk.com/" target="_blank">网址导航</a> |
+                            <a href="https://www.bizhizu.cn/webinfo/about.html">关于我们</a> |
+                            <a href="https://www.bizhizu.cn/webinfo/linkus.html">联系我们</a> |
+                            <a href="https://www.bizhizu.cn/webinfo/banquan.html">版权声明</a> |
+                            <a href="https://www.bizhizu.cn/webinfo/hr.html">招聘信息</a> |
+                            <a href="https://www.bizhizu.cn/webinfo/flinks.html">友情链接</a> |
+                        <a href="/sitemaps.xml" target="_blank">网站地图</a> | <a href="/tags.html" target="_blank">更多标签</a> |        </p>
+        <p>
+            Copyright 2011-2020 壁纸族 www.bizhizu.cn , All Rights Reserved <a href="https://beian.miit.gov.cn" rel="nofollow" target="_blank">闽ICP备12022453号-27
+</a>        </p>
+        <p>
+                        <a href="/">壁纸</a>族专注于提供各类高品质精美<a href="/">图片</a>,包括美女<a href="/">图片大全</a>,风景<a href="/">图片大全</a>,小清新<a href="/">图片大全</a>,并海选大量优质<a href="/">图片</a>制作成为精美<a href="/wallpaper/">电脑桌面壁纸</a>、<a href="/shouji/">手机壁纸</a>,以供网友美化<a href="/wallpaper/">电脑桌面</a>。
+        </p>
+    </div>
+</div>
+<!--01-27-16-23-27919247fe912f367457479cf2dae85827-->
+<!-- 广告位：bizhizu-全站底部 --><!--/footer-->
+<!-- 广告位：bizhizu-全站底部 -->
+<script>load_bizhizu_pc_dd('footer_tongji')</script></body>
+</html>

@@ -30,7 +30,7 @@ def parse_html(html):
 def save_file(dic):
     df = pd.DataFrame(dic,columns={"详细地址","详情链接","房型","户型",\
 	"面积","登记时间"})
-    df.to_excel(r'root/python/clsex0116/houses.xlsx')
+    df.to_excel(r'd:/Code/python/clsex0116/houses.xlsx')
 
 def main():
     html=get_html("https://www.lgfdcw.com/cs/index.php?PageNo=1")
